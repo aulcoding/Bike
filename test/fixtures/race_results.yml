@@ -1,0 +1,67 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  race_number: 1
+  card_number: MyString
+  membership_number: MyString
+  name: MyString
+  category: MyString
+  club: MyString
+  country: MyString
+  course_class: MyString
+  start_time: 2025-05-07 16:32:01
+  finish_time: 2025-05-07 16:32:01
+  race_time: 2025-05-07 16:32:01
+  non_competitive: MyString
+  position: 1
+  status: MyString
+  handicap: 1
+  penalty_score: 1
+  manual_score_adjust: 1
+  final_score: 1
+  handicap_time: 2025-05-07 16:32:01
+  handicap_score: 1
+  award_level: MyString
+  entry_system_ids: MyString
+  eligibility: MyString
+  journey_time: 2025-05-07 16:32:01
+  excluded_excess: 2025-05-07 16:32:01
+  behind_time: 2025-05-07 16:32:01
+  gender_dob: MyString
+  forenames: MyString
+  surnames: MyString
+  not_used: MyString
+  num_splits: 1
+
+two:
+  race_number: 1
+  card_number: MyString
+  membership_number: MyString
+  name: MyString
+  category: MyString
+  club: MyString
+  country: MyString
+  course_class: MyString
+  start_time: 2025-05-07 16:32:01
+  finish_time: 2025-05-07 16:32:01
+  race_time: 2025-05-07 16:32:01
+  non_competitive: MyString
+  position: 1
+  status: MyString
+  handicap: 1
+  penalty_score: 1
+  manual_score_adjust: 1
+  final_score: 1
+  handicap_time: 2025-05-07 16:32:01
+  handicap_score: 1
+  award_level: MyString
+  entry_system_ids: MyString
+  eligibility: MyString
+  journey_time: 2025-05-07 16:32:01
+  excluded_excess: 2025-05-07 16:32:01
+  behind_time: 2025-05-07 16:32:01
+  gender_dob: MyString
+  forenames: MyString
+  surnames: MyString
+  not_used: MyString
+  num_splits: 1
